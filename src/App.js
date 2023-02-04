@@ -83,7 +83,7 @@ function App() {
         <div className="form-control">
           <input
             className="grocery"
-            placeholder="5 task you did today?"
+            placeholder="stuffs you purchased"
             type="text"
             name="name"
             id="name"
